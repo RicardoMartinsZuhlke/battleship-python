@@ -102,7 +102,7 @@ def get_random_position():
     rows = 8
     lines = 8
 
-    # Definitions
+    # Definitions 
 
     letter = Letter(random.randint(1, lines))
     number = random.randint(1, rows)
